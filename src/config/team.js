@@ -28,6 +28,28 @@ export const TEAM = {
       genshinUID: "1807928981",        // their Genshin UID
       akashaURL: "https://akasha.cv/profile/1807928981",  // their akasha.cv profile link
     },
+    {
+      id: "member_2",
+      name: "Seyam Alpha",
+      nickname: "Seyam Alpha",
+      role: "Head of the Assassin's",
+      status: "student",
+      statusDetail: "Central Mosque Jamia Muhammadia Arabia Madrasa Complex",
+      location: "Dhaka",
+      email: "eliteseyam6@gmail.com",
+      whatsapp: "01717638806",
+      facebook: "https://www.facebook.com/seyam.alpha",
+      instagram: "",
+      github: "",
+      avatar: "https://res.cloudinary.com/dxtffxa1r/image/upload/v1776875886/qaxyq0ospfjej8aqt7io.jpg",
+      coverImage: "",
+      bio: "We work in the dark to serve you the light, we are Assassins of The Void\nAnime Lover, Genshin Impact player, Singal, Member of Dark Hero's.\nLove to Speak in English.\nAlmost end of my study journey.",
+      skills: ["Speaking in English", "Try to act like MC", "Love to kill"],
+      hobbies: ["Gaming", "Exploring my country", "Going to Anime event's"],
+      genshinUID: "1810342183",
+      akashaURL: "https://akasha.cv/profile/1810342183",
+      verified: true,
+    },
 
 
   ],
