@@ -4,7 +4,7 @@ export const TEAM = {
   tourGoal: 50000,              // total savings goal in ৳
   tourDate: "2027-01-01",       // target tour date
   currency: "৳",
-  adminEmail: "kenzomahim@admin.com", // ← you can make this anything
+  adminEmail: "adidkanzo@gmail.com", // ← you can make this anything
 
   members: [
     {
@@ -71,6 +71,48 @@ export const TEAM = {
       genshinUID: "1813578112",
       akashaURL: "https://akasha.cv/profile/1813578112",
       verified: true,
+    },
+    {
+      id: "member3",
+      name: "Kenzo Mahim",
+      role: "Silent Observer",
+      status: "student",
+      statusDetail: "Surviving life, one day at a time",
+      location: "Dhaka, Bangladesh",
+      email: "adidkenzo@gmail.com",
+      whatsapp: "+8801619825126",
+      facebook: "https://www.facebook.com/profile.php?id=61563671940329",
+      instagram: "https://www.instagram.com/davy.kenzo.2024/",
+      github: "",
+      avatar: "https://res.cloudinary.com/dxtffxa1r/image/upload/v1776932548/ss4cth20e9f178fe1en1.jpg",
+      coverImage: "https://res.cloudinary.com/dxtffxa1r/image/upload/v1776932550/srbgpag3gpvffluvrzb.jpg",
+      bio: "Man of few words, sigma of many thoughts. Doesn't care about social media but somehow ended up on this website. Loves nature, captures moments nobody else notices, and disappears before anyone asks questions. 🌿📷",
+      skills: ["Photography", "Videography", "Nature Spotting", "Being Mysterious"],
+      hobbies: ["📷 Photography", "🌿 Nature Walks", "🎮 Gaming", "🎧 Chilling"],
+      verified: true,
+      genshinUID: "1813678868",
+      akashaURL: "https://akasha.cv/profile/1813678868",
+    },
+    {
+      id: "member5",
+      name: "Pir",
+      role: "Squad Member",
+      status: "student",
+      statusDetail: "Currently in exams 📚",
+      location: "Bangladesh",
+      email: "",
+      whatsapp: "",
+      facebook: "",
+      instagram: "",
+      github: "",
+      avatar: "",
+      coverImage: "",
+      bio: "The mysterious 5th member. Currently locked in exam mode. Will reveal himself when the time is right. 🕵️",
+      skills: ["Surviving Exams"],
+      hobbies: ["📚 Studying (forced)"],
+      verified: false,
+      genshinUID: "",
+      akashaURL: "",
     },
 
 
