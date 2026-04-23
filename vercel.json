@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/enka/:path*",
+      "destination": "https://enka.network/:path*"
+    }
+  ]
+}

@@ -51,7 +51,7 @@ export const TEAM = {
       verified: true,
     },
     {
-      id: "member_57",
+      id: "member_3",
       name: "Cbr milon",
       nickname: "Cbr milon",
       role: "Photographer",
