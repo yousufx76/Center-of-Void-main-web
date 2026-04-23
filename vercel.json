@@ -3,6 +3,10 @@
     {
       "source": "/enka/:path*",
       "destination": "https://enka.network/:path*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
